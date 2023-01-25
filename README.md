@@ -2,6 +2,11 @@
 
 <img alt="myMainDog" src="https://media.tenor.com/images/c39e8ca30f2388f7599c6ea3b4972485/tenor.gif" width="400px" />
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaredzu&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Jaredzu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaredzu&show_icons=true&locale=en" alt="Jaredzu" /></p>
+
 <!--
 **Jaredzu/Jaredzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
