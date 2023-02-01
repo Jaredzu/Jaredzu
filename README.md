@@ -1,23 +1,20 @@
+
+<div align="center">
+  
 ### Hi there 👋
 
-<img alt="myMainDog" src="https://media.tenor.com/images/c39e8ca30f2388f7599c6ea3b4972485/tenor.gif" width="400px" />
+<img align="center" alt="myMainDog" src="https://media.tenor.com/images/c39e8ca30f2388f7599c6ea3b4972485/tenor.gif" width="400px" />
 
+ <p>🌱 I’m currently learning Web Development on Makaia Corporation 🤓</p>
+ <p>📫 How to reach me: https://www.linkedin.com/in/jared-bolanos-web-developer/ See you there! 😄</p>
+ <p>⚡ Fun fact: I worked on TV Production for 7 years.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaredzu&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Jaredzu" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaredzu&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Jaredzu" /></p>
 
 ![Jaredzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaredzu&show_icons=true&theme=transparent)
 
 
-- 🌱 I’m currently learning Web Development on Makaia Corporation 🤓
-- 📫 How to reach me: https://www.linkedin.com/in/jared-bolanos-web-developer/ See you there! 😄
-- ⚡ Fun fact: I worked on TV Production for 7 years.
+</div>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaredzu&show_icons=true&locale=en" alt="Jaredzu" /></p> -->
