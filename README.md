@@ -6,7 +6,7 @@
 <img align="center" alt="myMainDog" src="https://media.tenor.com/images/c39e8ca30f2388f7599c6ea3b4972485/tenor.gif" width="400px" />
 
  <p>🌱 I’m currently learning Web Development on Makaia Corporation 🤓</p>
- <p>📫 How to reach me: https://www.linkedin.com/in/jared-bolanos-web-developer/ See you there! 😄</p>
+ <p>📫 How to reach me: https://www.linkedin.com/in/jared-bolanos-dev/ See you there! 😄</p>
  <p>⚡ Fun fact: I worked on TV Production for 7 years.</p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaredzu&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Jaredzu" /></p>
